@@ -1,4 +1,4 @@
-# paas-success-nr-alerts-editor
+# nr-alerts-editor
 If you're tired of having to go to NR Alerts UI and modifying alerts piece by piece and just want to get on with it..
 
 
